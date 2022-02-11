@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ios": "cpp",
+        "stdio.h": "c"
+    }
+}
