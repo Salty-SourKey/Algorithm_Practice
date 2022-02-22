@@ -10,7 +10,9 @@ using namespace std;
 
 int main()
 {   
-    int a = 42;
-    cout << (string)a << endl;
+    for(int i = 100000; i > 0; i--){
+        cout << i << " ";
+        if(i % 25 == 0) cout << endl;
+    }
     return 0;
 }

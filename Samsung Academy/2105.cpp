@@ -1,3 +1,6 @@
+//가지치기 + DFS
+//회전의 방향은 아래로 시계, 아래로 반시계만 고려하면 된다는것이 매우 중요
+
 #include <iostream>
 #include <math.h>
 
